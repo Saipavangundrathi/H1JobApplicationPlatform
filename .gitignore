@@ -1,0 +1,15 @@
+.DS_Store
+.vscode/
+
+# Node
+**/node_modules/
+**/dist/
+**/build/
+
+# Java/Spring
+**/target/
+**/application-local.properties
+
+# Env files
+.env
+.env.*
